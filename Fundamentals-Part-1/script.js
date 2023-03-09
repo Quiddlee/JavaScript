@@ -25,7 +25,6 @@ let job1 = 'programmer';
 let job2 = 'teacher';
 
 console.log(myfirstJob);
-*/
 
 true;
 let javascriptIsFun = true;
@@ -47,3 +46,18 @@ year = 1991;
 console.log(typeof year);
 
 console.log(typeof null);
+
+let age = 18;
+age = 19;
+
+const birthYear = 2004;
+// birthYear = 2003;
+// const job;
+
+var job = 'programmer';
+job = 'teacher';
+
+lastName = 'Scherbina';
+console.log(lastName);
+*/
+
